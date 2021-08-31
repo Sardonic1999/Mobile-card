@@ -1,0 +1,34 @@
+.body07 {
+  width: 1440px;
+  height: 100%;
+  display: flex;
+  padding-top: 20px;
+  padding-bottom: 50px;
+}
+
+.left {
+  flex: 1;
+}
+
+.right {
+  flex: 1;
+}
+
+.img5 {
+  padding: 0px 140px 50px 50px;
+}
+
+.bold7 {
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 45px;
+  margin: 0px;
+  padding: 160px 0px 10px 140px;
+}
+
+.p7 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 25px;
+  padding: 0px 0px 10px 140px;
+}

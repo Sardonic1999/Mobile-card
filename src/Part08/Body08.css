@@ -1,0 +1,51 @@
+.body08 {
+  width: 1440px;
+  height: 100%;
+  padding-top: 70px;
+  display: flex;
+}
+
+.left {
+  flex: 1;
+}
+
+.right {
+  flex: 1;
+}
+
+.img6 {
+  padding: 0px 0px 50px 140px;
+}
+
+.bold8 {
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 45px;
+  margin: 0px;
+  padding: 0px 20px 10px 135px;
+}
+
+.p8 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 25px;
+  padding: 0px 20px 0px 135px;
+}
+
+.store {
+  display: flex;
+}
+
+.stores01 {
+  width: 150px;
+  height: 50px;
+  padding: 10px 20px 10px 140px;
+  cursor: pointer;
+}
+
+.stores02 {
+  width: 150px;
+  height: 50px;
+  padding: 10px 20px 10px 10px;
+  cursor: pointer;
+}

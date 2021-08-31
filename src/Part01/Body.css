@@ -1,0 +1,57 @@
+.body {
+  width: 1440px;
+  height: 100%;
+  display: flex;
+  background-color: #ffffff;
+}
+.left-div {
+  flex: 1;
+  /* background-color: red; */
+}
+
+.right-div {
+  flex: 1;
+  /* background-color: yellow; */
+}
+
+.img0 {
+  margin-top: 40px;
+  margin-right: 100px;
+}
+
+.body-text {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+  padding: 200px 140px 10px 140px;
+}
+
+.bold-text {
+  font-size: 42px;
+  font-weight: 400;
+  line-height: 50px;
+  padding: 0px 140px 0px 140px;
+  margin: 0px;
+}
+
+.body-text2 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+  padding: 10px 140px 0px 140px;
+}
+
+.appstore {
+  width: 160px;
+  height: 50px;
+  cursor: pointer;
+  padding: 10px 140px 10px 140px;
+  margin: 0px;
+}
+
+.google {
+  width: 160px;
+  height: 50px;
+  cursor: pointer;
+  padding: 0px 140px 0px 140px;
+}

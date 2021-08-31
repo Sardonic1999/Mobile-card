@@ -1,0 +1,70 @@
+.nav-main {
+  width: 1440px;
+  height: 78px;
+  background-color: rgba(0, 0, 0, 0.15);
+  display: flex;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.left-side {
+  background-color: whitesmoke;
+  display: flex;
+  flex: 1;
+}
+
+.right-side {
+  background-color: whitesmoke;
+  display: flex;
+  flex: 1;
+}
+
+.logo1 {
+  width: 40px;
+  height: 40px;
+  margin-top: 19px;
+  margin-left: 80px;
+  padding-right: 20px;
+}
+
+.red {
+  width: 28px;
+  height: 34px;
+  margin-top: 21px;
+}
+.yellow {
+  width: 28px;
+  height: 34px;
+  margin-top: 21px;
+  padding-right: 20px;
+}
+
+.nav-text {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: 29px;
+  padding-left: 20px;
+}
+
+.text02 {
+  display: flex;
+  margin-left: auto;
+}
+
+.nav-text2 {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+  margin-top: 29px;
+  padding-left: 20px;
+  margin-right: 40px;
+}
+
+.btn-get {
+  width: 131px;
+  height: 48px;
+  border-radius: 48px;
+  margin-top: 19px;
+  margin-right: 100px;
+  cursor: pointer;
+}
